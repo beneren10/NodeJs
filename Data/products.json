@@ -1,0 +1,18 @@
+[
+    {
+        "id":0,
+        "name": "Apple Iphone 1",
+        "releaseDate": "2007",
+        "img": "https://ee.co.uk/medias/iphone-15-128gb-black-desktop-detail-1-WebP-Format-488?context=bWFzdGVyfHJvb3R8MTE5MDR8aW1hZ2Uvd2VicHxzeXMtbWFzdGVyL3Jvb3QvaGFmL2hiZi8xMDA3MzQ4MTQxMjYzOC9pcGhvbmUtMTUtMTI4Z2ItYmxhY2stZGVza3RvcC1kZXRhaWwtMV9XZWJQLUZvcm1hdC00ODh8ZDM3NDU3MjY4OWZjNDQ3Y2I0MmM3ZDk1MjQ1N2YyZjE0OGUwZjM4OGZhNGI1MzE0ZjQ4MWNiNzA1YzE3OTQzNQ",
+        "colour": "red",
+        "content": "this is a sample model please contact us to buy"
+    },
+    {
+        "id":1,
+        "name": "Apple Iphone 2",
+        "releaseDate": "2008",
+        "img": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQDmg1d92NfyULgRdsK7BPLlJHMAjRHis8F2w&s",
+        "colour":"blue",
+        "content": "this is a sample model please contact us to buy"
+    }
+]
